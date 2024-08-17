@@ -1,0 +1,22 @@
+
+Prueba sumaIterativa:
+sumaIterativa(5): 15 (esperado: 15)
+sumaIterativa(10): 55 (esperado: 55)
+sumaIterativa(1): 1 (esperado: 1)
+Prueba sumaRecursiva:
+sumaRecursiva(5): 15 (esperado: 15)
+sumaRecursiva(10): 55 (esperado: 55)
+sumaRecursiva(1): 1 (esperado: 1)
+Prueba sumaDirecta:
+sumaDirecta(5): 15 (esperado: 15)
+sumaDirecta(10): 55 (esperado: 55)
+sumaDirecta(1): 1 (esperado: 1)
+Prueba OTresNMasUnoRecursiva:
+OTresNMasUnoRecursiva(6): 8 (esperado: 8)
+OTresNMasUnoRecursiva(19): 20 (esperado: 20)
+OTresNMasUnoRecursiva(27): 111 (esperado: 111)
+Prueba OTresNMasUnoIterativa:
+OTresNMasUnoIterativa(6): 8 (esperado: 8)
+OTresNMasUnoIterativa(19): 20 (esperado: 20)
+OTresNMasUnoIterativa(27): 111 (esperado: 111)
+
